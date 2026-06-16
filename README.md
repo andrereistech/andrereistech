@@ -1,4 +1,10 @@
-# 👋 Olá, eu sou André Reis
+# Olá, eu sou André Reis (andrereistech)👋
+
+## 📊 Analista de Dados de RH | Power BI | IA & Automação de Processos
+
+Transformando dados em decisões, automatizando processos e criando soluções que aproximam tecnologia e gestão de pessoas.
+
+---
 
 ## 🚀 Sobre Mim
 
@@ -10,126 +16,144 @@ Atualmente, dedico meus estudos e projetos ao desenvolvimento de dashboards anal
 
 ---
 
-## 💼 Áreas de Atuação
+## Áreas de Atuação:
 
-* 📊 People Analytics
-* 📈 Business Intelligence (Power BI)
-* 🤖 Inteligência Artificial aplicada a processos
-* ⚙️ Automação de Processos
-* 🧩 Google Apps Script
-* 📋 Gestão de Pessoas e RH
-* 📉 Indicadores e KPIs de RH
-* 🗄️ Tratamento e Modelagem de Dados
-* 🐍 Python para análise e automação
+📊 People Analytics
+📈 Business Intelligence (Power BI)
+🤖 Inteligência Artificial aplicada a processos
+⚙️ Automação de Processos
+🧩 Google Apps Script
+📋 Gestão de Pessoas e RH
+📉 Indicadores e KPIs de RH
+🗄️ Tratamento e Modelagem de Dados
+🐍 Python para análise e automação
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Dados & BI
+### 📊 Dados & BI
 
-* Power BI
-* DAX
-* Power Query
-* Looker Studio (Data Studio)
-* Excel Avançado
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Desenvolvimento
+### 💻 Desenvolvimento
 
-* Python
-* Google Apps Script
-* JavaScript
-* HTML
-* CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Inteligência Artificial
+### 🤖 Inteligência Artificial
 
-* OpenAI API
-* ChatGPT
-* Whisper
-* Text-to-Speech
-* Automação com IA
-
-### Produtividade
-
-* Google Workspace
-* Google Sheets
-* Microsoft Office
-* Git & GitHub
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
 
 ---
 
-## 📌 Projetos em Destaque
+## 📈 Estatísticas GitHub
 
-### 📊 Dashboards de RH
+![Andrereis's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrereistech&show_icons=true&theme=radical)
 
-Desenvolvimento de painéis analíticos para acompanhamento de:
+---
+
+## 💡 Projetos em Destaque
+
+### 📊 People Analytics & Dashboards de RH
+
+Desenvolvimento de soluções para monitoramento de:
 
 * Turnover
 * Absenteísmo
-* Atestados Médicos
-* Admissões e Demissões
-* Indicadores Estratégicos de Pessoas
+* Admissões e Desligamentos
+* Indicadores de Saúde Ocupacional
+* KPIs Estratégicos de RH
+
+---
 
 ### 🤖 Helpdesk Inteligente para RH
 
-Sistema de atendimento com:
+Sistema desenvolvido utilizando Google Apps Script com:
 
-* Abertura automática de chamados
-* Controle de protocolos
-* Integração com Google Sheets
-* Notificações automáticas por e-mail
+* Cadastro automatizado de solicitações
+* Geração de protocolos
+* Envio automático de e-mails
 * Painel de acompanhamento
+* Integração com Google Sheets
+
+---
 
 ### 👥 Sistema de Cadastro de Colaboradores
 
-Aplicação desenvolvida com Google Apps Script para:
+Aplicação web para gestão de cadastros contendo:
 
-* Consulta automática por CPF
-* Cadastro simplificado
-* Inserção automática em planilhas
-* Autocomplete de informações
-* Controle de escalas, turnos e unidades
+* Busca automática por CPF
+* Preenchimento inteligente
+* Autocomplete de campos
+* Controle de unidade, turno e escala
+* Integração com planilhas corporativas
+
+---
 
 ### 💰 Amigo Investidor
 
-Projeto educacional utilizando Inteligência Artificial para:
+Projeto educacional com Inteligência Artificial focado em:
 
-* Educação financeira
-* Organização das finanças pessoais
-* Planejamento financeiro
-* Reserva de emergência
-* Conceitos de investimentos
+* Educação Financeira
+* Organização das Finanças Pessoais
+* Planejamento Financeiro
+* Reserva de Emergência
+* Introdução ao Mundo dos Investimentos
 
-*O objetivo é orientar e educar financeiramente, sem realizar recomendações específicas de investimento.*
-
----
-
-## 🎯 Minha Missão
-
-Acredito que dados só geram valor quando se transformam em informação útil para a tomada de decisão.
-
-Por isso, busco constantemente desenvolver soluções que simplifiquem processos, aumentem a eficiência operacional e ajudem pessoas e organizações a tomar decisões mais inteligentes.
+> O objetivo é ensinar conceitos financeiros e auxiliar na tomada de decisões conscientes, sem recomendar investimentos específicos.
 
 ---
 
-## 🌱 Atualmente Estudando
+### 🌱 Atualmente Estudando
 
 * Inteligência Artificial Generativa
 * Engenharia de Prompt
 * Python para Ciência de Dados
 * Machine Learning
-* Desenvolvimento de Aplicações com IA
+* Automação Inteligente de Processos
 * Arquitetura de Dados para RH
+
+---
+
+### 🎯 Objetivos
+
+Busco desenvolver soluções que conectem:
+
+📊 Dados
+🤖 Inteligência Artificial
+⚙️ Automação
+👥 Gestão de Pessoas
+
+Transformando processos complexos em experiências mais simples, eficientes e inteligentes.
 
 ---
 
 ## 📫 Conecte-se Comigo
 
-LinkedIn: [www.linkedin.com/in/andrereistech](https://www.linkedin.com/in/andr%C3%A9-reis-tech/)
+### LinkedIn
 
-GitHub: [github.com/andrereistech](https://github.com/andrereistech)
+[linkedin.com/in/andre-reis-tech](https://www.linkedin.com/in/andre-reis-tech/)
+
+### GitHub
+
+[github.com/andrereistech](https://github.com/andrereistech)
 
 ---
 
-> "Transformando dados em decisões, processos em soluções e tecnologia em resultados."
+<div align="center">
+
+### "Dados contam histórias. Tecnologia transforma essas histórias em resultados."
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
