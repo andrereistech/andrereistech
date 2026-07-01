@@ -56,12 +56,6 @@ Atualmente, dedico meus estudos e projetos ao desenvolvimento de dashboards anal
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![Andrereis's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrereistech&show_icons=true&theme=radical)
-
----
-
 ## 💡 Projetos em Destaque
 
 ### 📊 People Analytics & Dashboards de RH
@@ -138,15 +132,16 @@ Transformando processos complexos em experiências mais simples, eficientes e in
 
 ---
 
+## 📈 Estatísticas do GitHub
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrereistech&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas André" />
+
+---
+
 ## 📫 Conecte-se Comigo
 
-### LinkedIn
-
-[linkedin.com/in/andre-reis-tech](https://www.linkedin.com/in/andre-reis-tech/)
-
-### GitHub
-
-[github.com/andrereistech](https://github.com/andrereistech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-reis-tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrereistech)
 
 ---
 
